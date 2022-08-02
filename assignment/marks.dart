@@ -31,6 +31,7 @@ main() {
     mark2: 60, 
     mark3: 70,
     totalMarks: 0);
+    
     student.displayStudDetails();
     student.calculateTotal();
     student.percentage();
